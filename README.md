@@ -13,7 +13,6 @@ The project is organized as follows:
 
 - **inc/Lab6.h:** Header containing the RMA1 data structure and function declarations.
 - **src/Lab6.c:** Source file that implements the functions to load the file and obtain samples.
-- **main.c:** Main program that uses the functions implemented in Lab6.c.
 - **Makefile:** File to compile and build the project.
 
 ## Compiling and Running
@@ -27,7 +26,7 @@ make
 This command will generate the executable "lab6". The program can then be run with:
 
 ```bash
-./lab6
+./Lab6
 ```
 
 ## How the Program Works
